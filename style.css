@@ -13,7 +13,7 @@ body{
   align-items: center;
 }
 .main-container{
-  background-image: url(/img.jpg);
+  background-image: url('img.jpg');
   height: 90vh;
   width: 100%;
 }
